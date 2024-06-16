@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ahooks": "^3.8.0",
     "react": "^18.3.1",
     "typescript": "^5.4.5"
   },
